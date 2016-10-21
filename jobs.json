@@ -1,0 +1,13 @@
+[
+	{
+		Title: "Teste",
+		, Description: "Teste vaga."
+		, Opened: "2016-21-10"
+		, Closed: null
+		, AnnouncedBy: "Calil"
+		, Company: {
+			Name: "Empresa"
+			, Site: "#"
+		}
+	}
+]
